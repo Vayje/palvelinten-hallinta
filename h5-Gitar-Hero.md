@@ -2,11 +2,11 @@
 
 ## x) Lue ja tiivistä
 
-Annetut lähteet kertovat kattavasti Gitin tarkoituksen, ja antavat ohjeita sen kanssa toimimiseen.
-Pää linkistä "Pro Git, 2ed" löytyy kaikki tarvittava kätevästi järjesteltynä, mitä gitin käyttöön saattaa tarvita.
-Git on siis versionhallinta järjestelmä joka erottuu joukosta niin, että se tallentaa tiedostot snapshotteina "erikseen".
-Git tallentaa niinsanotun screenshotin tiedostoista sillä hetkellä kun sinä niin päätät, ja tallentaa sen yhtenä versiona. Git ei myöskään tallenna tiedostoa uusiksi, jos siihen ei ole tullut muutoksia.
-Git tallentaa lähes kaiken lokaalisti omalle laitteellesi, joten pystyt käymään läpi, muokkaamaan tai jopa aloittamaan uusia projekteja täysin lennossa ilman verkkoyhteyttä. Verkkoyhteyden tarvii tosin sitten, kun haluat "työntää" tehdyt muutokset muiden nähtäväksi.
+Annetut lähteet kertovat kattavasti Gitin tarkoituksen, ja antavat ohjeita sen kanssa toimimiseen.  
+Pää linkistä "Pro Git, 2ed" löytyy kaikki tarvittava kätevästi järjesteltynä, mitä gitin käyttöön saattaa tarvita.  
+Git on siis versionhallinta järjestelmä joka erottuu joukosta niin, että se tallentaa tiedostot snapshotteina "erikseen".  
+Git tallentaa niinsanotun screenshotin tiedostoista sillä hetkellä kun sinä niin päätät, ja tallentaa sen yhtenä versiona. Git ei myöskään tallenna tiedostoa uusiksi, jos siihen ei ole tullut muutoksia.  
+Git tallentaa lähes kaiken lokaalisti omalle laitteellesi, joten pystyt käymään läpi, muokkaamaan tai jopa aloittamaan uusia projekteja täysin lennossa ilman verkkoyhteyttä. Verkkoyhteyden tarvii tosin sitten, kun haluat "työntää" tehdyt muutokset muiden nähtäväksi.  
 Herää kysymys, että miten kriittisillä vesillä liikutaan jos laite sattuu hajoamaan ennenkuin saat työnnettyä paikalliset tiedostot vaikkapa githubin palvelimelle?
 
 ## a) Online
